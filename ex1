@@ -1,0 +1,2 @@
+db.ships.find(NameShip: "Doctor-Professor Schwarzenholt")
+db.sailings.find({ship: "b4"}).count()

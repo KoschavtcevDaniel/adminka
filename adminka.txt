@@ -1,0 +1,5 @@
+1)
+answer = db.ships.findOne({"NameShip": "Doctor-Professor Schwarzenholt"})
+db.sailings.find('ship': answer._id)
+
+2)

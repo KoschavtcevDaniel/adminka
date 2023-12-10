@@ -1,0 +1,311 @@
+[{
+  "_id": "id1",
+  "ship": "s1",
+  "DateOut": "01-08-2020",
+  "DateIn": "04-08-2020",
+  "Fish": [
+    {
+      "id_f": "f1",
+      "weight": 97,
+      "quality": "mean"
+    },
+    {
+      "id_f": "f2",
+      "weight": 150,
+      "quality": "mean"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p9",
+      "post": "captain"
+    },
+    {
+      "id_p": "p10",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p1",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id2",
+  "ship": "s2",
+  "DateOut": "03-08-2020",
+  "DateIn": "05-08-2020",
+  "Fish": [
+    {
+      "id_f": "f3",
+      "weight": 200,
+      "quality": "bad"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p3",
+      "post": "captain"
+    },
+    {
+      "id_p": "p4",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p2",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id3",
+  "ship": "s3",
+  "DateOut": "06-08-2020",
+  "DateIn": "08-08-2020",
+  "Fish": [
+    {
+      "id_f": "f5",
+      "weight": 178,
+      "quality": "good"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p6",
+      "post": "captain"
+    },
+    {
+      "id_p": "p8",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p7",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id4",
+  "ship": "s4",
+  "DateOut": "10-08-2020",
+  "DateIn": "20-08-2020",
+  "Fish": [
+    {
+      "id_f": "f1",
+      "weight": 150,
+      "quality": "good"
+    },
+    {
+      "id_f": "f2",
+      "weight": 250,
+      "quality": "bad"
+    },
+    {
+      "id_f": "f3",
+      "weight": 290,
+      "quality": "mean"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p9",
+      "post": "captain"
+    },
+    {
+      "id_p": "p10",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p3",
+      "post": " boatswain "
+    },
+    {
+      "id_p": "p1",
+      "post": "sailor"
+    },
+    {
+      "id_p": "p2",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id5",
+  "ship": "s5",
+  "DateOut": "17-08-2020",
+  "DateIn": "25-08-2020",
+  "Fish": [
+    {
+      "id_f": "f1",
+      "weight": 250,
+      "quality": "mean"
+    },
+    {
+      "id_f": "f5",
+      "weight": 290,
+      "quality": "mean"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p4",
+      "post": "captain"
+    },
+    {
+      "id_p": "p6",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p8",
+      "post": " boatswain "
+    },
+    {
+      "id_p": "p7",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id6",
+  "ship": "s1",
+  "DateOut": "24-08-2020",
+  "DateIn": "28-08-2020",
+  "Fish": [
+    {
+      "id_f": "f1",
+      "weight": 250,
+      "quality": "good"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p10",
+      "post": "captain"
+    },
+    {
+      "id_p": "p9",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p2",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id7",
+  "ship": "s1",
+  "DateOut": "01-09-2020",
+  "DateIn": "03-09-2020",
+  "Fish": [
+    {
+      "id_f": "f3",
+      "weight": 150,
+      "quality": "mean"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p9",
+      "post": "captain"
+    },
+    {
+      "id_p": "p4",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p7",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id8",
+  "ship": "s2",
+  "DateOut": "02-09-2020",
+  "DateIn": "06-09-2020",
+  "Fish": [
+    {
+      "id_f": "f5",
+      "weight": 135,
+      "quality": "bad"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p3",
+      "post": "captain"
+    },
+    {
+      "id_p": "p10",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p1",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id",
+  "ship": "s5",
+  "DateOut": "08-09-2020",
+  "DateIn": "12-09-2020",
+  "Fish": [
+    {
+      "id_f": "f2",
+      "weight": 140,
+      "quality": "good"
+    },
+    {
+      "id_f": "f5",
+      "weight": 190,
+      "quality": "mean"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p4",
+      "post": "captain"
+    },
+    {
+      "id_p": "p6",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p8",
+      "post": " boatswain "
+    },
+    {
+      "id_p": "p7",
+      "post": "sailor"
+    }
+  ]
+},
+{
+  "_id": "id10",
+  "ship": "s3",
+  "DateOut": "14-09-2020",
+  "DateIn": "19-09-2020",
+  "Fish": [
+    {
+      "id_f": "f1",
+      "weight": 195,
+      "quality": "good"
+    }
+  ],
+  "Crew": [
+    {
+      "id_p": "p6",
+      "post": "captain"
+    },
+    {
+      "id_p": "p8",
+      "post": "chief officer"
+    },
+    {
+      "id_p": "p7",
+      "post": "sailor"
+    }
+  ]
+}]

@@ -2,78 +2,135 @@
   "_id": "v_s1",
   "id_s": "id1",
   "id_shs": [
-    "sh1",
-    "sh2"
+    {
+      "id_sh": "sh1",
+      "weight":  378
+    },
+    {
+      "id_sh": "sh2",
+      "weight":  581
+    }
   ]
 },
 {
   "_id": "v_s2",
   "id_s": "id2",
   "id_shs": [
-    "sh3"
+    {
+      "id_sh": "sh3",
+      "weight": 527
+    }
   ]
 },
 {
   "_id": "v_s3",
   "id_s": "id3",
   "id_shs": [
-    "sh4",
-    "sh5"
+    {
+      "id_sh": "sh4",
+      "weight": 561
+    },
+    {
+      "id_sh": "sh5",
+      "weight": 714
+    }
   ]
 },
 {
   "_id": "v_s4",
   "id_s": "id4",
   "id_shs": [
-    "sh1",
-    "sh3",
-    "sh4",
-    "sh5"
+    {
+      "id_sh": "sh1",
+      "weight": 612
+    },
+    {
+      "id_sh": "sh3",
+      "weight": 213
+    },
+    {
+      "id_sh": "sh2",
+      "weight": 645
+    },
+    {
+      "id_sh": "sh5",
+      "weight": 735
+    }
   ]
 },
 {
   "_id": "v_s5",
   "id_s": "id5",
   "id_shs": [
-    "sh1",
-    "sh2"
+    {
+      "id_sh": "sh1",
+      "weight": 468
+    },
+    {
+      "id_sh": "sh2",
+      "weight": 589
+    }
   ]
 },
 {
   "_id": "v_s6",
   "id_s": "id6",
   "id_shs": [
-    "sh1",
-    "sh5"
+    {
+      "id_sh": "sh1",
+      "weight": 735
+    },
+    {
+      "id_sh": "sh5",
+      "weight": 469
+    }
   ]
 },
 {
   "_id": "v_s7",
   "id_s": "id7",
   "id_shs": [
-    "sh4"
+    {
+      "id_sh": "sh4",
+      "weight": 982
+    }
   ]
 },
 {
   "_id": "v_s8",
   "id_s": "id8",
   "id_shs": [
-    "sh3"
+    {
+      "id_sh": "sh3",
+      "weight": 423
+    }
   ]
 },
 {
   "_id": "v_s9",
   "id_s": "id9",
   "id_shs": [
-    "sh1",
-    "sh2",
-    "sh5"
+    {
+      "id_sh": "sh1",
+      "weight": 456
+    },
+    {
+      "id_sh": "sh2",
+      "weight": 385
+    },
+    {
+      "id_sh": "sh5",
+      "weight": 760
+    }
   ]
 },
 {
   "_id": "v_s10",
   "id_s": "id10",
   "id_shs": [
-    "sh4"
+    {
+      "id_sh": "sh4",
+      "weight": 756
+    }
   ]
 }]

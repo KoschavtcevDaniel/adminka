@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "f1",
+    "name":  "herring"
+  },
+  {
+    "_id": "f2",
+    "name": "salmon"
+  },
+  {
+    "_id": "f3",
+    "name": "cod"
+  },
+  {
+    "_id": "f4",
+    "name": "pike"
+  },
+  {
+    "_id": "f5",
+    "name": "plaice"
+  },
+  {
+    "_id": "f6",
+    "name": "perch"
+  },
+  {
+    "_id": "f7",
+    "name": "carp"
+  }
+]

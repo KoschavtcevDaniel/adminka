@@ -282,30 +282,99 @@
     }
   ]
 },
-{
-  "_id": "id10",
-  "ship": "s3",
-  "DateOut": "14-09-2020",
-  "DateIn": "19-09-2020",
-  "Fish": [
-    {
-      "id_f": "f1",
-      "weight": 195,
-      "quality": "good"
-    }
-  ],
-  "Crew": [
-    {
-      "id_p": "p6",
-      "post": "captain"
-    },
-    {
-      "id_p": "p8",
-      "post": "chief officer"
-    },
-    {
-      "id_p": "p7",
-      "post": "sailor"
-    }
-  ]
-}]
+  {
+    "_id": "id10",
+    "ship": "s3",
+    "DateOut": "14-09-2020",
+    "DateIn": "19-09-2020",
+    "Fish": [
+      {
+        "id_f": "f1",
+        "weight": 195,
+        "quality": "good"
+      }
+    ],
+    "Crew": [
+      {
+        "id_p": "p6",
+        "post": "captain"
+      },
+      {
+        "id_p": "p8",
+        "post": "chief officer"
+      },
+      {
+        "id_p": "p7",
+        "post": "sailor"
+      }
+    ]
+  },
+  {
+    "_id": "id11",
+    "ship": "s4",
+    "DateOut": "13-05-2021",
+    "DateIn": "17-06-2021",
+    "Fish": [
+      {
+        "id_f": "f2",
+        "weight": 135,
+        "quality": "good"
+      },
+      {
+        "id_f": "f5",
+        "weight": 108,
+        "quality": "good"
+      }
+    ],
+    "Crew": [
+      {
+        "id_p": "p12",
+        "post": "captain"
+      },
+      {
+        "id_p": "p13",
+        "post": "chief officer"
+      },
+      {
+        "id_p": "p15",
+        "post": "sailor"
+      }
+    ]
+  },
+  {
+    "_id": "id12",
+    "ship": "s1",
+    "DateOut": "15-08-2019",
+    "DateIn": "17-09-2019",
+    "Fish": [
+      {
+        "id_f": "f1",
+        "weight": 100,
+        "quality": "good"
+      },
+      {
+        "id_f": "f3",
+        "weight": 168,
+        "quality": "good"
+      }
+    ],
+    "Crew": [
+      {
+        "id_p": "p6",
+        "post": "captain"
+      },
+      {
+        "id_p": "p14",
+        "post": "chief officer"
+      },
+      {
+        "id_p": "p13",
+        "post": "boatswain "
+      },
+      {
+        "id_p": "p11",
+        "post": "sailor"
+      }
+    ]
+  }
+]

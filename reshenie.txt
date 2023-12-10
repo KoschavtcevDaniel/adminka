@@ -201,7 +201,7 @@ db.visited_fishing_spot.aggregate([
     {
         $project: {
             _id: false,
-            id_shs: "$id_shs.id_sh"
+            id_shs: true
         }
     },
     {
@@ -215,14 +215,14 @@ db.visited_fishing_spot.aggregate([
             from: 'fishing_spot',
             localField: "_id",
             foreignField: "_id",
-            as: "fishing_spot"
+            as: "shoal"
         }
     },
     {
         $replaceRoot: {
             newRoot: {
                 $mergeObjects: [
-                    { $arrayElemAt: [ "$fishing_spot", 0 ] },
+                    { $arrayElemAt: [ "$shoal", 0 ] },
                     "$$ROOT"
                 ]
             }

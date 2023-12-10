@@ -1,0 +1,25 @@
+[{
+  "_id": "sh1",
+  "latitude": "42 47 07.4 N",
+  "longitude": "131 43 28.6 E"
+},
+{
+  "_id": "sh2",
+  "latitude": "42 52 52.9 N",
+  "longitude": "131 53 09.7 E"
+},
+{
+  "_id": "sh3",
+  "latitude": "43 01 22.5 N",
+  "longitude": "131 43 33.1 E"
+},
+{
+  "_id": "sh4",
+  "latitude": "43 04 58.5 N",
+  "longitude": "131 38 17.1 E"
+},
+{
+  "_id": "sh5",
+  "latitude": "43 09 50.1 N",
+  "longitude": "131 42 07.8 E"
+}]
